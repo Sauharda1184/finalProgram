@@ -69,5 +69,6 @@ int main()
     cout<< " breadth of the first rectangle : "<<r1.getBreadth()<<endl;
     cout<< " The total Area of the given Rectangle : "<<r1.area()<<endl;
     cout<<"This is Rectangle !"<<endl;
+    cout<<"These are the properties of rectangle !"<<endl;
     return 0;
 }
