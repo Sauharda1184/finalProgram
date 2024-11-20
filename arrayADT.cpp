@@ -51,6 +51,7 @@ int main() {
     Array arr(10);
     arr.create();
     arr.display();
+    cout<<"This is an Array"<<endl;
  
  
     return 0;
